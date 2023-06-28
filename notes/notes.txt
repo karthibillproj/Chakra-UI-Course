@@ -1,0 +1,19 @@
+
+To start the application
+npx json-server -p 3500 -w .\data\db.json
+npm run-script dev
+
+Chapter 1: Introduction and Chakra UI setup
+Chapter 2: Chakra UI components and style props
+Chapter 3: Flex Layouts
+Chapter 4 : Grid Layouts
+Chapter 5: Responsive Styles
+Chapter 6. Lists and List Icons
+Chapter 7: Card Component
+Chapter 8: Tabs Component
+Chapter 9: Form Fields
+Chapter 10: Toast components
+Chapter 11: Avatars
+Chapter 12: Customizing the theme
+
+Reference link - https://www.youtube.com/watch?v=FKuNkIFlgdU&list=PL4cUxeGkcC9hcnIeryurNMMcGBHp7AYlP&index=12
